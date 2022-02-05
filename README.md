@@ -18,7 +18,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### You can find me on
  
 <div> 
   
