@@ -1,7 +1,10 @@
 ### Hi there 👋 I´m Otto Suhett
 
 <h3>I'm a Front-end developer</h3>
+
 <p> I´m passionate about Webdev and I enjoy learning new things!</p>
+
+<h3> I´m currently looking for new opportunities!</h3>
 
 <div>
   <a href="https://github.com/ottosuhett">
