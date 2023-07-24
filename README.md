@@ -4,8 +4,6 @@
 
 <p> I´m passionate about Webdev and I enjoy learning new things!</p>
 
-<h3> I´m currently looking for new opportunities!</h3>
-
 <div>
   <a href="https://github.com/ottosuhett">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ottosuhett&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
