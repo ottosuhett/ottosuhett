@@ -2,7 +2,12 @@
 
 <h3>I'm a Front-end developer</h3>
 
-<p> I´m passionate about Webdev and I enjoy learning new things!</p>
+<p> 👨‍💻 Software Engineering student and Frontend Developer, constantly evolving and exploring the realms of HTML, CSS, JavaScript, React, NextJS , Sass and Bootstrap. Enthusiastic about crafting user-centric web experiences and eager to collaborate on innovative projects that push the boundaries of technology.  
+</p>
+
+<br>
+
+<p>Let's connect and build something amazing together!</p>
 
 <div>
   <a href="https://github.com/ottosuhett">
