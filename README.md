@@ -2,7 +2,7 @@
 
 <h3>I'm a Front-end developer</h3>
 
-<p> 👨‍💻 Software Engineering student and Frontend Developer, constantly evolving and exploring the realms of HTML, CSS, JavaScript, React, NextJS , Sass and Bootstrap. Enthusiastic about crafting user-centric web experiences and eager to collaborate on innovative projects that push the boundaries of technology.  
+<p> 👨‍💻 Software Engineering and Frontend Developer, constantly evolving and exploring the realms of HTML, CSS, JavaScript, React, NextJS , Sass and Bootstrap. Enthusiastic about crafting user-centric web experiences and eager to collaborate on innovative projects that push the boundaries of technology.  
 </p>
 
 <br>
